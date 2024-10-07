@@ -1,5 +1,5 @@
 from random import randrange
-
+# this is a test
 def task_1(): # Lottery ticket generator
 
     ticket = []
